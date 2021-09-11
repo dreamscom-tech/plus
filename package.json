@@ -1,0 +1,29 @@
+{
+  "name": "plus",
+  "version": "1.0.0",
+  "description": "Online shopping platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dreamscom-tech/plus.git"
+  },
+  "keywords": [
+    "online",
+    "shopping"
+  ],
+  "author": "XamuelUG",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dreamscom-tech/plus/issues"
+  },
+  "homepage": "https://github.com/dreamscom-tech/plus#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
