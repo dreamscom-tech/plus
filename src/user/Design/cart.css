@@ -1,0 +1,12 @@
+.cart_main_ctr {
+  width: 72%;
+  margin: 20px auto;
+}
+
+.cart_main_ctr > div:nth-child(2) {
+  height: 4px;
+  width: 100%;
+  border-radius: 2px;
+  background-color: #ffbb00;
+  margin: 15px 0px;
+}

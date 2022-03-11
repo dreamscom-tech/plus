@@ -22,7 +22,6 @@ import welcome_cleaning from "../../assets/cleaning.jpg";
 
 //styles
 import "../Design/home.css";
-import { useState } from "react";
 
 class Home extends Component {
   constructor(props) {
