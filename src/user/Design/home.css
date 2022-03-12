@@ -152,7 +152,7 @@
   width: 72%;
   margin: 25px auto;
   display: flex;
-  height: 45vh;
+  height: fit-content;
 }
 /*products on scroll container*/
 

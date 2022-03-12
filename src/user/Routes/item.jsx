@@ -24,7 +24,7 @@ class Item extends Component {
     return (
       <>
         <MainHeader />
-        <section className="width-auto">
+        <section className="width-auto item-section-ctr">
           <div className="item-ctr">
             <div className="-b-x">
               <div className="item-img-ctr">
@@ -70,7 +70,24 @@ class Item extends Component {
             <div className="-b-x">
               <h4>Item Details</h4>
               <ul>
-                <li>This item has no information at the moment</li>
+                <li>
+                  <b>Weight:</b> Light
+                </li>
+                <li>
+                  <b>Weight:</b> Light
+                </li>
+                <li>
+                  <b>Weight:</b> Light
+                </li>
+                <li>
+                  <b>Weight:</b> Light
+                </li>
+                <li>
+                  <b>Weight:</b> Light
+                </li>
+                <li>
+                  <b>Weight:</b> Light
+                </li>
               </ul>
               <h4>Delivery Information</h4>
               <ul>

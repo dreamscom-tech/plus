@@ -42,8 +42,8 @@ export default function Products(props) {
           Check All <i className="las la-chevron-right"></i>
         </span>
       </div>
-      <div className="-scroll  -ct-trending" ref={scrollBackRef}>
-        {[1, 2, 3, 4, 5, 6, 7, 8, 9, , 1, 3, 4, 5].map((v, i) => {
+      <div className="-scroll -ct-trending" ref={scrollBackRef}>
+        {[1, 2, 3, 4, 5, 6, 7, 8, 9, 1, 3, 4, 5].map((v, i) => {
           return (
             <Link to="/item/id">
               <Item key={i} />
