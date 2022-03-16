@@ -10,7 +10,7 @@
 }
 .pdts-CatalogCtr > div:nth-child(1) {
   height: 50px;
-  background-color: red;
+  background-color: #fff;
   display: flex;
   justify-content: space-between;
   align-items: center;
